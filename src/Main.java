@@ -86,7 +86,7 @@ public class Main {
             }else if (solN == 2) {
                 solutionDoubleNums();
             } else{
-                System.out.println(" я хз")
+                System.out.println(" я хз");
             }
 
                 solutionSingleNum();
